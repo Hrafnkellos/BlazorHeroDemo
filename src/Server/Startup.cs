@@ -14,6 +14,7 @@ using System.IO;
 using BlazorHero.CleanArchitecture.Server.Filters;
 using BlazorHero.CleanArchitecture.Server.Managers.Preferences;
 using Microsoft.Extensions.Localization;
+using Asp.Versioning;
 
 namespace BlazorHero.CleanArchitecture.Server
 {
